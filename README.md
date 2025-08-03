@@ -39,7 +39,7 @@ O projeto adota uma **arquitetura em camadas**, favorecendo a escalabilidade, te
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/BotManager.git
+git clone https://github.com/Grazyelly/BotManegerServer
 cd BotManager
 ```
 
