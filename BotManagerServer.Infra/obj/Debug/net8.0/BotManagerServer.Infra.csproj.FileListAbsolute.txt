@@ -1,0 +1,17 @@
+D:\VGTECH\BotManager\BotManagerServer.Infra\bin\Debug\net8.0\BotManagerServer.Infra.deps.json
+D:\VGTECH\BotManager\BotManagerServer.Infra\bin\Debug\net8.0\BotManagerServer.Infra.dll
+D:\VGTECH\BotManager\BotManagerServer.Infra\bin\Debug\net8.0\BotManagerServer.Infra.pdb
+D:\VGTECH\BotManager\BotManagerServer.Infra\bin\Debug\net8.0\BotManagerServer.Core.dll
+D:\VGTECH\BotManager\BotManagerServer.Infra\bin\Debug\net8.0\BotManagerServer.Data.dll
+D:\VGTECH\BotManager\BotManagerServer.Infra\bin\Debug\net8.0\BotManagerServer.Core.pdb
+D:\VGTECH\BotManager\BotManagerServer.Infra\bin\Debug\net8.0\BotManagerServer.Data.pdb
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManagerServer.Infra.csproj.AssemblyReference.cache
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManagerServer.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManagerServer.Infra.AssemblyInfoInputs.cache
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManagerServer.Infra.AssemblyInfo.cs
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManagerServer.Infra.csproj.CoreCompileInputs.cache
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManag.864C00AC.Up2Date
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManagerServer.Infra.dll
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\refint\BotManagerServer.Infra.dll
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\BotManagerServer.Infra.pdb
+D:\VGTECH\BotManager\BotManagerServer.Infra\obj\Debug\net8.0\ref\BotManagerServer.Infra.dll

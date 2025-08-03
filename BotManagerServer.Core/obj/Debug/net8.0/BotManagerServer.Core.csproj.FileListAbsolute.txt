@@ -1,0 +1,11 @@
+D:\VGTECH\BotManager\BotManagerServer.Core\bin\Debug\net8.0\BotManagerServer.Core.deps.json
+D:\VGTECH\BotManager\BotManagerServer.Core\bin\Debug\net8.0\BotManagerServer.Core.dll
+D:\VGTECH\BotManager\BotManagerServer.Core\bin\Debug\net8.0\BotManagerServer.Core.pdb
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\BotManagerServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\BotManagerServer.Core.AssemblyInfoInputs.cache
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\BotManagerServer.Core.AssemblyInfo.cs
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\BotManagerServer.Core.csproj.CoreCompileInputs.cache
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\BotManagerServer.Core.dll
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\refint\BotManagerServer.Core.dll
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\BotManagerServer.Core.pdb
+D:\VGTECH\BotManager\BotManagerServer.Core\obj\Debug\net8.0\ref\BotManagerServer.Core.dll

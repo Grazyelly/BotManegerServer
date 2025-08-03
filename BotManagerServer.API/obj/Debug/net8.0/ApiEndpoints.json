@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "BotManagerServer.API.Controllers.ChatbotController",
+    "Method": "Criar",
+    "RelativePath": "api/Chatbot",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "contexto",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BotManagerServer.API.Controllers.ChatbotController",
+    "Method": "ObterTodos",
+    "RelativePath": "api/Chatbot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BotManagerServer.API.Controllers.ChatbotController",
+    "Method": "Delete",
+    "RelativePath": "api/Chatbot/{botId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "botId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BotManagerServer.API.Controllers.MensagemController",
+    "Method": "EnviarMensagem",
+    "RelativePath": "api/Mensagem/{botId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "botId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "texto",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BotManagerServer.API.Controllers.MensagemController",
+    "Method": "Historico",
+    "RelativePath": "api/Mensagem/{botId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "botId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

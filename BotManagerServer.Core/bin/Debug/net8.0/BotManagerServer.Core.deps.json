@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BotManagerServer.Core/1.0.0": {
+        "runtime": {
+          "BotManagerServer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotManagerServer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

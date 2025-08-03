@@ -1,0 +1,15 @@
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\bin\Debug\net8.0\BotManagerServer.ExternalService.deps.json
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\bin\Debug\net8.0\BotManagerServer.ExternalService.dll
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\bin\Debug\net8.0\BotManagerServer.ExternalService.pdb
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\bin\Debug\net8.0\BotManagerServer.Core.dll
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\bin\Debug\net8.0\BotManagerServer.Core.pdb
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManagerServer.ExternalService.csproj.AssemblyReference.cache
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManagerServer.ExternalService.GeneratedMSBuildEditorConfig.editorconfig
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManagerServer.ExternalService.AssemblyInfoInputs.cache
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManagerServer.ExternalService.AssemblyInfo.cs
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManagerServer.ExternalService.csproj.CoreCompileInputs.cache
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManag.4B03E18E.Up2Date
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManagerServer.ExternalService.dll
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\refint\BotManagerServer.ExternalService.dll
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\BotManagerServer.ExternalService.pdb
+D:\VGTECH\BotManager\BotManagerServer.ExternalService\obj\Debug\net8.0\ref\BotManagerServer.ExternalService.dll
