@@ -29,7 +29,7 @@ public class OpenAIService : IOpenAIService
 
         var content = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");
 
-        var response = await _httpClient.PostAsync($"https://generativelanguage.googleapis.com/v1beta/models/{request.model}:generateContent?key=AIzaSyCwBFe6AZfNBiziqC6KePUDWyYb894wewk", content);
+        var response = await _httpClient.PostAsync($"https://generativelanguage.googleapis.com/v1beta/models/{request.model}:generateContent?key=", content);
 
         if (!response.IsSuccessStatusCode)
         {
